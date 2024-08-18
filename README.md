@@ -1,4 +1,4 @@
-# Pizza-Sales (SQL + Pawer BI)
+# Pizza-Sales (SQL + Power BI)
 ABJECTIV:To analyze the data, find the top-selling category of pizza, and help sellers improve their pizza sales in that particular category
 
 Created a pizza sales report using SQL and Power BI to analyze business growth and extract KPIs.
